@@ -1,5 +1,5 @@
 <!--![logo](1.png) 图标-->
 # *EasyAPS*
 # **排产易用户手册**
-[GitHub](http://localhost:3000/#/)
+[GitHub](https://github.com/lht802/EasyAPS)
 [开始阅读](/README)
